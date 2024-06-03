@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/lastpencil/Main.java
+    visible: true
+    learner_created: false
+  - name: test/LastPencilTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/27999#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 16 Apr 2024 08:09:12 UTC"
+record: 2
